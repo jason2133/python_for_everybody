@@ -7,7 +7,7 @@ if c > 50 :
     print("너무 과도한 근무")
 
 else:
-    print("수고했다이기")
+    print("수고했다!")
 
 e = c * d
 
