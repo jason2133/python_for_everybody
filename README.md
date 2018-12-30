@@ -5,3 +5,4 @@ https://www.edwith.org/pythonforeverybody/joinLectures/12597
 
 * 해당 강좌를 수강하면서 공부한 코드들
 
+https://tutorial.djangogirls.org/ko/django_installation/
