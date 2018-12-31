@@ -6,5 +6,5 @@ https://www.edwith.org/pythonforeverybody/joinLectures/12597
 * 해당 강좌를 수강하면서 공부한 코드들
 
 * Python 기초 참고 자료
-  * 한국자료 : https://wikidocs.net/book/1 (점프 투 파이썬)
-  * 영어자료 : https://docs.python.org/3/tutorial/index.html
+  * 한국어 자료 : https://wikidocs.net/book/1 (점프 투 파이썬)
+  * 영어 자료 : https://docs.python.org/3/tutorial/index.html
